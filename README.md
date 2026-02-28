@@ -9,6 +9,7 @@ modernización de las interfaces de GlobalFin en GlobalFin Bank.
 	consultoría. Wireframes y diagramas.
 - `desktop/` – cliente de escritorio (JavaFX/.NET MAUI). Imágenes hi-fi de la aplicación de escritorio.
 - `mobile/` – cliente móvil (React Native/Flutter). Imágenes hi-fi de la aplicación móvil.
+- `Respuestas GlobalFin.md`- Respuestas a las preguntas del CEO y justificación de las tecnologías utilizadas.
 
 ## Primeros pasos
 
