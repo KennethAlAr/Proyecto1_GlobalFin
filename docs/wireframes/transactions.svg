@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="700" viewBox="0 0 1100 700">
+  <rect width="100%" height="100%" fill="#0F1417"/>
+  <text x="60" y="40" font-family="Arial" font-size="20" fill="#EAF2F8">Transacciones — GlobalFin</text>
+  <rect x="60" y="60" width="980" height="48" fill="#1A1E22" stroke="#000"/>
+  <text x="80" y="92" font-family="Arial" font-size="12">Filtros: Fecha → [  ]  Cliente → [      ]  Buscar</text>
+  <rect x="60" y="130" width="980" height="500" fill="#26292C" stroke="#000"/>
+  <!-- table header -->
+  <rect x="60" y="130" width="980" height="36" fill="#1F2326" stroke="#000"/>
+  <text x="140" y="155" font-family="Arial" font-size="12">ID</text>
+  <text x="300" y="155" font-family="Arial" font-size="12">Fecha</text>
+  <text x="520" y="155" font-family="Arial" font-size="12">Cliente</text>
+  <text x="780" y="155" font-family="Arial" font-size="12">Monto</text>
+  <text x="940" y="155" font-family="Arial" font-size="12">Estado</text>
+  <!-- rows -->
+  <rect x="60" y="166" width="980" height="40" fill="#26292C" stroke="#000"/>
+  <rect x="60" y="206" width="980" height="40" fill="#232628" stroke="#000"/>
+  <rect x="60" y="246" width="980" height="40" fill="#26292C" stroke="#000"/>
+  <rect x="60" y="286" width="980" height="40" fill="#232628" stroke="#000"/>
+  <text x="120" y="192" font-family="Arial" font-size="12" fill="#EAF2F8">TRX-001</text>
+  <text x="300" y="192" font-family="Arial" font-size="12" fill="#EAF2F8">2026-02-28</text>
+  <text x="520" y="192" font-family="Arial" font-size="12" fill="#EAF2F8">ACME Corp</text>
+  <text x="780" y="192" font-family="Arial" font-size="12" fill="#EAF2F8">$12,345.67</text>
+  <text x="940" y="192" font-family="Arial" font-size="12" fill="#EAF2F8">Completada</text>
+</svg>

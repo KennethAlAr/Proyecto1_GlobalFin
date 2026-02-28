@@ -1,0 +1,19 @@
+:root {
+  --color-primary: #C6FF3B;
+  --color-accent-1: #8A62FF;
+  --color-accent-2: #FF5C8A;
+  --color-accent-3: #FFC857;
+  --color-accent-4: #3BD3C2;
+
+  --bg-900: #0F1417;
+  --bg-800: #1A1E22;
+  --panel: #1F2326;
+  --surface: #26292C;
+
+  --text-primary: #EAF2F8;
+  --muted: #98A0A6;
+}
+
+/* Example usage:
+   body { background: var(--bg-900); color: var(--text-primary); }
+*/
